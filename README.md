@@ -10,6 +10,9 @@
 5. grid-auto-rows:auto / 1fr / 50% / 100px ;
 6. grid-auto-columns:auto / 1fr / 50% / 100px ;
 
+7. justify-item: centar;
+8. align-items: center;
+
 - gap:
 1. grid-column-gap:10px
 2. grid-row-gap:15px
